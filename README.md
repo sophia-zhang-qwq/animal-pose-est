@@ -1,2 +1,3 @@
 # animal-pose-est
-animal pose estimation google colab code
+- notebooks: animal pose estimation google colab code
+	- sleap
